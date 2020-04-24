@@ -15,25 +15,30 @@ public class ClientWindow extends JPanel implements ActionListener, TCPConnectio
     private final JTextArea log = new JTextArea();
     private final JTextField fieldNikName = new JTextField(AuthorizationWindow.name);
     private final JTextField fieldInput = new JTextField();
+    JButton newButton = new JButton("new message");
+    JButton enterButton = new JButton("send message");
     private static String consoleLog;
 
     private TCPConnection connection;
 
     public ClientWindow(String IP_ADDR){
-        setLayout(new BorderLayout());
+        setLayout(null);
+        fieldInput.setBounds(0, 405, 700, 50);
+        log.setBounds(0, 35, 700, 333);
+        newButton.setBounds(0, 375, 350, 30);
+        enterButton.setBounds(350, 375, 350, 30);
+        fieldNikName.setBounds(0, 0, 700, 30);
+
         log.setEditable(false);
         log.setName("logging");
         log.setLineWrap(true);
-        add(log, BorderLayout.CENTER);
-        JButton newButton = new JButton("new");
-        JButton enterButton = new JButton("Enter m-ge");
-        newButton.setBounds(-20,-20,1,1);
-        add(enterButton, BorderLayout.LINE_END);
-        add(newButton, BorderLayout.WEST);
+        add(log);
+        add(enterButton);
+        add(newButton);
 
         fieldInput.addActionListener(this);
-        add(fieldInput, BorderLayout.SOUTH);
-        add(fieldNikName, BorderLayout.NORTH);
+        add(fieldInput);
+        add(fieldNikName);
 
         newButton.addActionListener(e -> fieldInput.setText("new message"));
         enterButton.addActionListener(this::actionPerformed);

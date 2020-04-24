@@ -24,10 +24,10 @@ public class AuthorizationWindow extends JPanel {
         jTextField.setBounds(-10,-10,1,1);
         jTextField.setVisible(true);
         add(jTextField);
-        buttonEnter.setBounds(75,285,430,55);
-        buttonIP.setBounds(25,115,530,55);
-        jTextFieldIP.setBounds(25,30,530,55);
-        jTextFieldName.setBounds(25,200,530,55);
+        buttonEnter.setBounds(125,325,430,55);
+        buttonIP.setBounds(75,115,530,55);
+        jTextFieldIP.setBounds(75,30,530,55);
+        jTextFieldName.setBounds(75,200,530,55);
         add(buttonEnter);
         add(buttonIP);
         add(jTextFieldName);

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef6723ec-cb6f-43c2-8019-47a9835c1fe2" name="Default Changelist" comment="" />
+    <list default="true" id="ef6723ec-cb6f-43c2-8019-47a9835c1fe2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/ru/dmitrii/chat/client/AuthorizationWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/ru/dmitrii/chat/client/AuthorizationWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/ru/dmitrii/chat/client/ClientWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/ru/dmitrii/chat/client/ClientWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/ru/dmitrii/chat/client/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/ru/dmitrii/chat/client/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/tests/ru/dmitrii/chat/client/RobotFestEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/tests/ru/dmitrii/chat/client/RobotFestEnum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,21 +43,8 @@
     <property name="project.structure.proportion" value="0.14965986" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.ClientSwingTest.testMainForm_allComponentsStart_CorrectPanelReturned">
-    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.server.ChatServer" />
-      <module name="server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.dmitrii.chat.server.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.OpenExitClientSwingTest.testAuthorizationForm_addTextInJTextField_onePageReturned">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.client.Main" />
       <module name="client" />
       <extension name="coverage">
@@ -80,6 +73,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClientSwingTest.testMainForm_addTextInChatForm_CorrectPanelReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dmitrii.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.dmitrii.chat.client" />
+      <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.client.ClientSwingTest" />
+      <option name="METHOD_NAME" value="testMainForm_addTextInChatForm_CorrectPanelReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClientSwingTest.testMainForm_allComponentsStart_CorrectPanelReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="server" />
       <extension name="coverage">
@@ -96,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientWindowIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OpenExitClientSwingTest.testAuthorizationForm_addTextInJTextField_onePageReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="server" />
       <extension name="coverage">
         <pattern>
@@ -105,26 +114,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ru.dmitrii.chat.client" />
-      <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.client.ClientWindowIT" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.client.OpenExitClientSwingTest" />
+      <option name="METHOD_NAME" value="testAuthorizationForm_addTextInJTextField_onePageReturned" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ClientWindowIT" />
-      <item itemvalue="Application.ChatServer" />
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.ClientSwingTest.testAuthorizationForm_addTextInJTextField_onePageReturned" />
       <item itemvalue="JUnit.ClientSwingTest.testMainForm_allComponentsStart_CorrectPanelReturned" />
+      <item itemvalue="JUnit.ClientSwingTest.testMainForm_addTextInChatForm_CorrectPanelReturned" />
+      <item itemvalue="JUnit.OpenExitClientSwingTest.testAuthorizationForm_addTextInJTextField_onePageReturned" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OpenExitClientSwingTest.testAuthorizationForm_addTextInJTextField_onePageReturned" />
+        <item itemvalue="JUnit.ClientSwingTest.testMainForm_addTextInChatForm_CorrectPanelReturned" />
         <item itemvalue="JUnit.ClientSwingTest.testMainForm_allComponentsStart_CorrectPanelReturned" />
         <item itemvalue="JUnit.ClientSwingTest.testAuthorizationForm_addTextInJTextField_onePageReturned" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ChatServer" />
-        <item itemvalue="JUnit.ClientWindowIT" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +155,8 @@
       <workItem from="1587656843642" duration="9708000" />
       <workItem from="1587736324917" duration="2069000" />
       <workItem from="1587739624990" duration="341000" />
+      <workItem from="1587763576846" duration="2276000" />
+      <workItem from="1587768645901" duration="726000" />
     </task>
     <servers />
   </component>
@@ -152,10 +164,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587653499489">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587769049077">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587653499489" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587769049077" />
     <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1587655785362">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -170,26 +182,26 @@
     </state>
     <state x="473" y="174" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739789337" />
     <state x="473" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587657742515" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587739970287">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587769384683">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739970287" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587739970287">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587765119630" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587769384683" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587769384683">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739970287" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587739970287">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587765119630" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587769384683" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587769384683">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739970287" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587739970287">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587765119630" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587769384667" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587769384683">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739970287" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587765119630" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587769384683" />
     <state x="249" y="7" key="SettingsEditor" timestamp="1587739825286">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

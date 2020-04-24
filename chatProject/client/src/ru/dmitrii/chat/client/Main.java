@@ -4,8 +4,8 @@ import javax.swing.*;
 
 public class Main {
     private JFrame window;
-    private static final int WIDTH = 600;
-    private static final int HEIGHT = 400;
+    private static final int WIDTH = 700;
+    private static final int HEIGHT = 500;
     private static String IP_ADDR = "";
 
     public Main(int i, String IP_ADDR) {

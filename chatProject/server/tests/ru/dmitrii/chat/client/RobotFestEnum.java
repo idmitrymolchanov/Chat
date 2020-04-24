@@ -49,12 +49,12 @@ public enum RobotFestEnum {
     }
 
     public void clickNewMessage() throws Exception{
-        CaptionMatcher matcher = new CaptionMatcher("new");
+        CaptionMatcher matcher = new CaptionMatcher("new message");
         click(matcher);
     }
 
     public void clickEnterMessage() throws Exception {
-        CaptionMatcher matcher = new CaptionMatcher("Enter m-ge");
+        CaptionMatcher matcher = new CaptionMatcher("send message");
         click(matcher);
     }
 
