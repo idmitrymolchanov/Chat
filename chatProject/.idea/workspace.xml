@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef6723ec-cb6f-43c2-8019-47a9835c1fe2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/client.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/src/ru/dmitrii/chat/client/AuthorizationWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/src/ru/dmitrii/chat/client/ClientWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/src/ru/dmitrii/chat/client/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../network/network.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../network/src/ru/dmitrii/chat/network/TCPConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../network/src/ru/dmitrii/chat/network/TCPConnectionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/client/META-INF/client.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/server/META-INF/server.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/server.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/src/ru/dmitrii/chat/server/ChatServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/tests.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/tests/ru/dmitrii/chat/client/ClientSwingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/tests/ru/dmitrii/chat/client/ClientSwingTestError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/tests/ru/dmitrii/chat/client/ClientWindowIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/tests/ru/dmitrii/chat/client/ClientWindowTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/tests/ru/dmitrii/chat/client/RobotFestEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/tests/ru/dmitrii/chat/network/SocketIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/tests/ru/dmitrii/chat/network/SocketMultiIT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server/tests/ru/dmitrii/chat/server/ChatServerTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="ef6723ec-cb6f-43c2-8019-47a9835c1fe2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +144,7 @@
       <workItem from="1587654342298" duration="2290000" />
       <workItem from="1587656843642" duration="9708000" />
       <workItem from="1587736324917" duration="2069000" />
-      <workItem from="1587739624990" duration="257000" />
+      <workItem from="1587739624990" duration="341000" />
     </task>
     <servers />
   </component>
@@ -195,25 +170,25 @@
     </state>
     <state x="473" y="174" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739789337" />
     <state x="473" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587657742515" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587739868013">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587739970287">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739868013" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739970287" />
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587739868013">
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587739970287">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739868013" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739970287" />
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587739868012">
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587739970287">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739868012" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739970287" />
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587739868013">
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587739970287">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739868013" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1587739970287" />
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
     <state x="249" y="7" key="SettingsEditor" timestamp="1587739825286">
       <screen x="0" y="0" width="1536" height="864" />
