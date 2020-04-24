@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef6723ec-cb6f-43c2-8019-47a9835c1fe2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtPzqjbhcDAWKFuVIyizuofP8e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../fest-reflect-1.2.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14965986" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.ClientWindowIT">
+    <configuration name="ClientSwingTestError.testClientWithoutServer_exceptionReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dmitrii.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.dmitrii.chat.client" />
+      <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.client.ClientSwingTestError" />
+      <option name="METHOD_NAME" value="testClientWithoutServer_exceptionReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientSwingTest.testAuthorizationForm_addTextInJTextField_nextPageReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dmitrii.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.dmitrii.chat.client" />
+      <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.client.ClientSwingTest" />
+      <option name="METHOD_NAME" value="testAuthorizationForm_addTextInJTextField_nextPageReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientSwingTest.testMainForm_addTextInChatForm_CorrectPanelReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dmitrii.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.dmitrii.chat.client" />
+      <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.client.ClientSwingTest" />
+      <option name="METHOD_NAME" value="testMainForm_addTextInChatForm_CorrectPanelReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientSwingTest.testMainForm_allComponentsStart_CorrectPanelReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dmitrii.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.dmitrii.chat.client" />
+      <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.client.ClientSwingTest" />
+      <option name="METHOD_NAME" value="testMainForm_allComponentsStart_CorrectPanelReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientWindowIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dmitrii.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.dmitrii.chat.client" />
+      <option name="MAIN_CLASS_NAME" value="ru.dmitrii.chat.client.ClientWindowIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ClientSwingTest.testAuthorizationForm_addTextInJTextField_nextPageReturned" />
+      <item itemvalue="JUnit.ClientSwingTest.testMainForm_allComponentsStart_CorrectPanelReturned" />
+      <item itemvalue="JUnit.ClientSwingTest.testMainForm_addTextInChatForm_CorrectPanelReturned" />
+      <item itemvalue="JUnit.ClientSwingTestError.testClientWithoutServer_exceptionReturned" />
+      <item itemvalue="JUnit.ClientWindowIT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClientWindowIT" />
+        <item itemvalue="JUnit.ClientSwingTestError.testClientWithoutServer_exceptionReturned" />
+        <item itemvalue="JUnit.ClientSwingTest.testMainForm_addTextInChatForm_CorrectPanelReturned" />
+        <item itemvalue="JUnit.ClientSwingTest.testMainForm_allComponentsStart_CorrectPanelReturned" />
+        <item itemvalue="JUnit.ClientSwingTest.testAuthorizationForm_addTextInJTextField_nextPageReturned" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6723ec-cb6f-43c2-8019-47a9835c1fe2" name="Default Changelist" comment="" />
+      <created>1583759182623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583759182623</updated>
+      <workItem from="1583759187229" duration="8855000" />
+      <workItem from="1583825028783" duration="243000" />
+      <workItem from="1587652201223" duration="1995000" />
+      <workItem from="1587654342298" duration="2290000" />
+      <workItem from="1587656843642" duration="9708000" />
+      <workItem from="1587736324917" duration="2069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587653499489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587653499489" />
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1587655785362">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1587655785362" />
+    <state x="599" y="143" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1587654200166">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="143" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.864@0.0.1536.864" timestamp="1587654200166" />
+    <state x="473" y="174" key="FileChooserDialogImpl" timestamp="1587657742515">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="473" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587657742515" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587738417462">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587738417462">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587738417462">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587738417462">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587738417462" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1587657747331">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587657747331" />
+    <state x="498" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587653097681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1587653097681" />
+    <state x="209" y="53" key="new project wizard" timestamp="1587652746818">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1587652746818" />
+  </component>
+</project>
